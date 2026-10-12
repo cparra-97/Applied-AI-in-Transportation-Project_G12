@@ -1,1 +1,3 @@
-
+The data file has the codes for crossing the information between databases.
+The eda file has the exploratory data analysis.
+The models file has the preprocessing, regression and classification models.
